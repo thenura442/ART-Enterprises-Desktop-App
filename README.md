@@ -34,19 +34,19 @@ Provide step-by-step instructions on how to install your project, including any 
 
 ## Technologies Used
 
-### Language
+#### Languages
 
 - C# - (Used for application logic and user interface development)
 
-### Framework
+#### Frameworks
 
 - Windows Forms App (.NET Framework) (Used for building the user interface)
 
-### Library
+#### Libraries
 
 - Metro Modern UI package (Used for enhancing the UI design)
 
-### Database
+#### Database
 
 - SQL (Used for storing and managing application data)
 

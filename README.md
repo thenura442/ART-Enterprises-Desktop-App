@@ -30,17 +30,17 @@ Provide step-by-step instructions on how to install your project, including any 
 - Once installed, navigate to your workspace and right-click on your solution in Solution Explorer.
 - Select "Rebuild" to complete the process.
 - You should now be able to proceed with your work without encountering the missing resource error.
-- 
+
 
 ## Technologies Used
 
-Language: C# (Used for application logic and user interface development)
+- Language: C# (Used for application logic and user interface development)
 
-Framework: Windows Forms App (.NET Framework) (Used for building the user interface)
+- Framework: Windows Forms App (.NET Framework) (Used for building the user interface)
 
-Library: Metro Modern UI package (Used for enhancing the UI design)
+- Library: Metro Modern UI package (Used for enhancing the UI design)
 
-Database: SQL (Used for storing and managing application data)
+- Database: SQL (Used for storing and managing application data)
 
 
 ## Contributing

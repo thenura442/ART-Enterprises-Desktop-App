@@ -8,11 +8,13 @@ Moreover, the application includes features for the creation and exporting of da
 
 This desktop application project stands as a testament to my early endeavors in software development, showcasing my ability to design and implement solutions that address real-world business challenges.
 
+
 ## Table of Contents
 
 1. [Installation](#installation)
 2. [Technologies Used](#technologies-used)
 3. [Contributing](#contributing)
+
 
 ## Installation
 
@@ -28,13 +30,18 @@ Provide step-by-step instructions on how to install your project, including any 
 - Once installed, navigate to your workspace and right-click on your solution in Solution Explorer.
 - Select "Rebuild" to complete the process.
 - You should now be able to proceed with your work without encountering the missing resource error.
+- 
 
 ## Technologies Used
 
 Language: C# (Used for application logic and user interface development)
+
 Framework: Windows Forms App (.NET Framework) (Used for building the user interface)
+
 Library: Metro Modern UI package (Used for enhancing the UI design)
+
 Database: SQL (Used for storing and managing application data)
+
 
 ## Contributing
 

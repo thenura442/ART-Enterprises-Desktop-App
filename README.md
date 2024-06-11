@@ -26,7 +26,8 @@ Provide step-by-step instructions on how to install your project, including any 
 - To resolve this error:
   - Right-click on your solution and select "Manage Nuget Packages."
   - Look for a yellow message at the top and click the button presented.
-  - Install the "Metro Modern UI" package that appears on the left side of the screen.
+  - Install the "Metro Modern UI" package that appears on the left side of the screen. (Metro Modern UI is a paid library and i have used the free version within this working 
+    prototype)
 - Once installed, navigate to your workspace and right-click on your solution in Solution Explorer.
 - Select "Rebuild" to complete the process.
 - You should now be able to proceed with your work without encountering the missing resource error.
